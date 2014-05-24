@@ -14,5 +14,5 @@ puts "Your meal has a cost of $#{meal_price}"
 puts "with adding the 15% of tax your meal is now at $#{meal_tax}"
 puts "And because we must not forget %20 for the tip."
 puts "The grand total of your meal is $#{total_price}"
-puts "Hope this help come back any time :)"
+puts "Hope this helps come back any time :)"
 
